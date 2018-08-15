@@ -1,0 +1,7 @@
+D:\MCode\C\IVS_Report\Model\bin\Debug\Model.dll
+D:\MCode\C\IVS_Report\Model\bin\Debug\Model.pdb
+D:\MCode\C\IVS_Report\Model\obj\Debug\Model.dll
+D:\MCode\C\IVS_Report\Model\obj\Debug\Model.pdb
+D:\MCode\C\IVS_Report\Model\bin\Debug\LOGIN_VEHICLE_INFO_Entity.cs
+D:\MCode\C\IVS_Report\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\MCode\C\IVS_Report\Model\obj\Debug\Model.csprojAssemblyReference.cache

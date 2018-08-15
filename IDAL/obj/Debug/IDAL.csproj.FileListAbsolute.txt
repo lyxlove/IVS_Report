@@ -1,0 +1,10 @@
+D:\MCode\C\IVS_Report\IDAL\bin\Debug\LOGIN_VEHICLE_INFO_Entity.cs
+D:\MCode\C\IVS_Report\IDAL\bin\Debug\IDAL.dll
+D:\MCode\C\IVS_Report\IDAL\bin\Debug\IDAL.pdb
+D:\MCode\C\IVS_Report\IDAL\bin\Debug\Model.dll
+D:\MCode\C\IVS_Report\IDAL\bin\Debug\Model.pdb
+D:\MCode\C\IVS_Report\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+D:\MCode\C\IVS_Report\IDAL\obj\Debug\IDAL.dll
+D:\MCode\C\IVS_Report\IDAL\obj\Debug\IDAL.pdb
+D:\MCode\C\IVS_Report\IDAL\obj\Debug\IDAL.csprojAssemblyReference.cache
+D:\MCode\C\IVS_Report\IDAL\obj\Debug\IDAL.csproj.CopyComplete

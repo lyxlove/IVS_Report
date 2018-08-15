@@ -1,0 +1,10 @@
+D:\MCode\C\IVS_Report\IBLL\bin\Debug\IBLL.dll
+D:\MCode\C\IVS_Report\IBLL\bin\Debug\IBLL.pdb
+D:\MCode\C\IVS_Report\IBLL\obj\Debug\IBLL.csproj.CoreCompileInputs.cache
+D:\MCode\C\IVS_Report\IBLL\obj\Debug\IBLL.dll
+D:\MCode\C\IVS_Report\IBLL\obj\Debug\IBLL.pdb
+D:\MCode\C\IVS_Report\IBLL\bin\Debug\LOGIN_VEHICLE_INFO_Entity.cs
+D:\MCode\C\IVS_Report\IBLL\bin\Debug\Model.dll
+D:\MCode\C\IVS_Report\IBLL\bin\Debug\Model.pdb
+D:\MCode\C\IVS_Report\IBLL\obj\Debug\IBLL.csprojAssemblyReference.cache
+D:\MCode\C\IVS_Report\IBLL\obj\Debug\IBLL.csproj.CopyComplete

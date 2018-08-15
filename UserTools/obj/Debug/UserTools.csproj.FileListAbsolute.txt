@@ -1,0 +1,5 @@
+D:\MCode\C\IVS_Report\UserTools\bin\Debug\UserTools.dll
+D:\MCode\C\IVS_Report\UserTools\bin\Debug\UserTools.pdb
+D:\MCode\C\IVS_Report\UserTools\obj\Debug\UserTools.csproj.CoreCompileInputs.cache
+D:\MCode\C\IVS_Report\UserTools\obj\Debug\UserTools.dll
+D:\MCode\C\IVS_Report\UserTools\obj\Debug\UserTools.pdb

@@ -1,0 +1,14 @@
+D:\MCode\C\IVS_Report\DAL\bin\Debug\LOGIN_VEHICLE_INFO_Entity.cs
+D:\MCode\C\IVS_Report\DAL\bin\Debug\DAL.dll
+D:\MCode\C\IVS_Report\DAL\bin\Debug\DAL.pdb
+D:\MCode\C\IVS_Report\DAL\bin\Debug\Model.dll
+D:\MCode\C\IVS_Report\DAL\bin\Debug\UserTools.dll
+D:\MCode\C\IVS_Report\DAL\bin\Debug\Model.pdb
+D:\MCode\C\IVS_Report\DAL\bin\Debug\UserTools.pdb
+D:\MCode\C\IVS_Report\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\MCode\C\IVS_Report\DAL\obj\Debug\DAL.dll
+D:\MCode\C\IVS_Report\DAL\obj\Debug\DAL.pdb
+D:\MCode\C\IVS_Report\DAL\bin\Debug\IDAL.dll
+D:\MCode\C\IVS_Report\DAL\bin\Debug\IDAL.pdb
+D:\MCode\C\IVS_Report\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\MCode\C\IVS_Report\DAL\obj\Debug\DAL.csproj.CopyComplete
